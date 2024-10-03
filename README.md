@@ -16,4 +16,4 @@ Bem-vindo ao repositório do **Teste de Estágio da Target**! Aqui você encontr
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Viniciuss2004/teste-target.git
